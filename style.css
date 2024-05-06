@@ -1,6 +1,6 @@
 header{ /*classe cabecalho criada no HTML*/
     background-color: #dd0000; /*cor do fundo*/
-    color: rgb(0, 26, 255); /*cor da fonte*/
+    color: rgb(255, 255, 255); /*cor da fonte*/
 }
 body{ /*fonte utilizada em todo texto da página*/
     font-family: "Poppins", sans-serif; /*estilo da fonte*/
@@ -31,7 +31,7 @@ body{ /*fonte utilizada em todo texto da página*/
 }
 .escola{ /*classe escola no HTML*/
     background-image: linear-gradient(#ff0000, #001aff); /*imagem de fundo*/
-    color: white;
+    color: rgb(253, 245, 207);
     display: flex;
     justify-content: center;
     align-items: center; /*alinhamento dos elementos: centro*/
