@@ -10,7 +10,7 @@ body{ /*fonte utilizada em todo texto da página*/
 }
 .cabecalho{ /*classe cabecalho no HTML*/
     background-color: #ff0000; 
-    color: rgb(0, 68, 255);
+    color: rgb(255, 255, 255);
     display: flex; /*organiza os elementos lado a lado, só muda de linha se ocupar todo o espaço*/
     justify-content: space-around; /*justifica o conteúdo, space-around=espaço ao redor, cria margens iguais entre os elemtnos da linha*/
     padding: 24px 0; /*espaçamento interno, considera as bordas do proprio elemento*/
