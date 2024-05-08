@@ -6,7 +6,7 @@ body{ /*fonte utilizada em todo texto da página*/
     font-family: "Poppins", sans-serif; /*estilo da fonte*/
 }
 .cabecalho-imagem{ /*classe cabecalho-imagem no HTML*/
-    width: 25%; /*largura da imagem do cabeçalho*/
+    width: 5%; /*largura da imagem do cabeçalho*/
 }
 .cabecalho{ /*classe cabecalho no HTML*/
     background-color: #ff0000; 
@@ -27,7 +27,7 @@ body{ /*fonte utilizada em todo texto da página*/
 }
 /*Agora, podemos adicionar padding e margin individuais para cada elemento*/
 .escola-imagem{ /*classe escola-imagem no HTML*/
-    width: 25%;
+    width: 35%;
 }
 .escola{ /*classe escola no HTML*/
     background-image: linear-gradient(#ff0000, #001aff); /*imagem de fundo*/
